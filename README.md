@@ -1,9 +1,9 @@
 # Alien_invasion-python 
 
 
-alien invasion is game using pygame
+Alien invasion is game using pygame.
 
-reference : python crash course by eric matthews 2nd edition
+Reference : python crash course by Eric Matthews 2nd Edition.
 
 <img src="ss1.png" width="600">
 
